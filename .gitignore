@@ -1,8 +1,4 @@
-### Example user template template
-### Example user template
-
-# IntelliJ project files
-.idea
-__pycache__
 db.sqlite3
-media
+.idea
+../venv
+/media
